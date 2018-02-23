@@ -2,6 +2,25 @@ This is a summary of all the meetups I have attended in Singapore.
 Only a brief note is provided here for quick navigation, more details are in individual markdown files.
 This section will be updated with latest meetups appearing at the top. 
 
+#### [Selected Topics from Strata Data Conference 2017](2017/20171206.md)
+- PyTextRank: Graph algorithms for enhanced natural language processing, Paco Nathan (O’Reilly Media)
+- Considerations for Data at Speed, Ted Malaska (Blizzard)
+- Art and Machine Learning, Wolff Dobson (Google)
+- Deep Learning on Anonymized Datasets, Yufeng Guo (Google)
+- R for Everything, Jared P. Lander (Lander Analytics)
+
+#### [Machine Learning and Deep Learning at Carousell](2017/20171122.md)
+Joint deep image and language understanding, predicted category and titles when a picture is uploaded, coversational modelling for Carousell chat, metrics used. 
+
+#### [TensorFlow basics and Transfer Learning, Google](2017/20171121.md)
+Tensorboard, TF serving, XLA compiler, canned estimators, keras, transfer learning using pretrained models and SVM. 
+
+#### [Data Science in Industry, Pan Yaozhang (Shopee)](2017/20171119.md)
+Differences between industry and academia, data scientists' pain points, projects at Shopee.
+
+#### [Music Composition using Neural Networks, Shen Ting Ang](2017/20171019.md)
+How to model music, common feature representations, RNN vs LSTM, how to evaluate the model performance.
+
 #### [Humane Representations and Isochronic Singapore, Yin Shanyang](2017/20170925.md)
 Toolchains for creating interactive data visualisations, public transport data, isochronic maps of singapore, mental models. 
 
