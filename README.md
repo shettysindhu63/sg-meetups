@@ -2,6 +2,25 @@ This is a summary of all the meetups I have attended in Singapore.
 Only a brief note is provided here for quick navigation, more details are in individual markdown files.
 This section will be updated with latest meetups appearing at the top. 
 
+## 2018
+
+#### [NIPS 2017 Review, Google](2018/20180222.md)
+- Deep learning practices and trends, Martin Andrews
+- Intro to capsule networks, Olzhas Akpambetov
+- Personalization in Goal-Oriented Dialog, Chaitanya Joshi
+- Meta Learning/AutoML/NASnet/Learning to Learn, Sam Witteveen
+
+#### [Using data science to improve flight operations, R2 Data Labs (Rolls Royce)](2018/20180221.md)
+Projects in R2 data labs, use cases : landing safety analysis for better flight training, influence pilot behaviour to take more fuel-efficient routes.
+
+#### [Efficient Hardware for Deep Learning, Bill Dally (Nvidia)](2018/20180201.md)
+Volta V100, Xavier, DLA, improving architecture for DLA applications, efficient communication, AI for graphics applications. 
+
+#### [From Scikit-learn to TensorFlow Estimators, Karthik MSwamy](2018/20180109.md)
+TF estimators, canned estimators, porting models to TF serving, typical workflows, visualise features with FACETS, logging experiment parameters, takeaways from experience. 
+
+## 2017
+
 #### [Selected Topics from Strata Data Conference 2017](2017/20171206.md)
 - PyTextRank: Graph algorithms for enhanced natural language processing, Paco Nathan (O’Reilly Media)
 - Considerations for Data at Speed, Ted Malaska (Blizzard)
