@@ -4,6 +4,11 @@ This section will be updated with latest meetups appearing at the top.
 
 ## 2018
 
+#### [NUS SoC-ParisTech Telecom Joint Workshop on Data Sciences and Artificial Intelligence](2018/20180412.md)
+- Massive Online Analytics on Data Streams, Prof. Albert Bifet, ParisTech
+- Details on AI Singapore and Singapore Data Science Consortium 
+- Few other talks 
+
 #### [NIPS 2017 Review, Google](2018/20180222.md)
 - Deep learning practices and trends, Martin Andrews
 - Intro to capsule networks, Olzhas Akpambetov
