@@ -2,6 +2,14 @@ This is a summary of all the meetups I have attended in Singapore.
 Only a brief note is provided here for quick navigation, more details are in individual markdown files.
 This section will be updated with latest meetups appearing at the top. 
 
+## 2019
+
+#### [Exploring Fourth Dimension of Analytics](2019/20190219.md)
+Data-intensive science, data discovery, data curation, late binding 
+
+#### [H20 Driverless AI](2019/20190218.md)
+On H20 new enterprise software Driverless AI for AutoML  
+
 ## 2018
 
 #### [NUS SoC-ParisTech Telecom Joint Workshop on Data Sciences and Artificial Intelligence](2018/20180412.md)
