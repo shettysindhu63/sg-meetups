@@ -4,6 +4,17 @@ This section will be updated with latest meetups appearing at the top.
 
 ## 2019
 
+#### [DataX Singapore Day 2](2019/20190306.md)
+- Addressing Privacy and Untangling Bias for Responsible AI, Jason Tamara Widjaja (MSD)
+- Combining Human and Artificial Intelligence for a Personalised Experience, Grace Tang (Netflix)
+- Smart ATM withdrawal Recommendation Engine, Alok Kumar (DBS Bank) 
+
+#### [DataX Singapore Day 1](2019/20190305.md)
+- Delivering Successful AI Projects, Derek Chan (IBM)
+- Having a sound data strategy to run successful AI Projects, Janet Uy (Oracle)
+- On Data virtualisation, Alex Hoehl (Denodo Technologies)
+- Better understand patients and predict hospital costs, Eugene Yan (UCARE.AI)
+
 #### [Exploring Fourth Dimension of Analytics](2019/20190219.md)
 Data-intensive science, data discovery, data curation, late binding 
 
